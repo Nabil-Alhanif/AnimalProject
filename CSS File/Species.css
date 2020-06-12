@@ -1,0 +1,25 @@
+body
+{
+	background-color: black;
+	text-align: center;
+}
+h1
+{
+	font-size: 100px;
+	color: white;
+}
+h3
+{
+	color: white;
+	font-size: 50px
+}
+p
+{
+	font-size: 20px;
+	color: white;
+}
+a
+{
+	color: white;
+	font-size: 50px;
+}
