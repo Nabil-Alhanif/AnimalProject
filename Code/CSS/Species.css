@@ -1,6 +1,5 @@
 body
 {
-	background-color: black;
 	text-align: center;
 }
 h1
@@ -8,18 +7,28 @@ h1
 	font-size: 100px;
 	color: white;
 }
+img
+{
+	text-align: center;
+}
 h3
 {
 	color: white;
 	font-size: 50px
 }
-p
+article
 {
 	font-size: 20px;
 	color: white;
+	text-align: center;
 }
 a
 {
-	color: white;
+	color: White;
 	font-size: 50px;
+}
+a:hover
+{
+	color: black;
+	background-color: white;
 }
