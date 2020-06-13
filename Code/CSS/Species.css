@@ -1,6 +1,6 @@
 body
 {
-	text-align: center;
+	text-align: left;
 }
 h1
 {
@@ -20,7 +20,6 @@ p
 {
 	font-size: 20px;
 	color: white;
-	text-align: center;
 }
 a
 {
