@@ -5,24 +5,19 @@ body
 }
 h1
 {
-	font-size: 100px;
 	color: white;
 }
-h3
+h2
 {
 	color: white;
-	font-size: 50px
 }
 p
 {
-	font-size: 20px;
 	color: white;
-	float: left
 }
 a
 {
 	color: white;
-	font-size: 50px;
 }
 a:hover
 {
@@ -33,13 +28,13 @@ table
 {
 	color: white;
 	text-align: center;
+	width: 100%;
 }
 img
 {
 	text-align: center;
 }
-h6
+h3
 {
 	color: white;
-	font-size: 30px;
 }
